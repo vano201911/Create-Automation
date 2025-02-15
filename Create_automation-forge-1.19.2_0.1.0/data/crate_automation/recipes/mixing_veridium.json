@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "create:crushed_raw_copper"
+	  },
+	  {
+		"item": "minecraft:gravel"
+	  },
+	  {
+		"fluid": "minecraft:lava",
+		"nbt": {},
+		"amount": 50
+	  }
+	],
+	"results": [
+	  {
+		"item": "create:veridium",
+		"count": 1
+	  }
+	]
+  }

@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"item": "create:crushed_raw_zinc"
+	  },
+	  {
+		"item": "minecraft:gravel"
+	  },
+	  {
+		"fluid": "minecraft:water",
+		"nbt": {},
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "create:asurine",
+		"count": 1
+	  }
+	]
+  }

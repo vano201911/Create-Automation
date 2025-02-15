@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="crate_automation"
+version="0.1.0"
+displayName="Crate: Automation"
+authors="vano201911"
+
+[[dependencies.crate_automation]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
